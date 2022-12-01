@@ -1,1 +1,0 @@
-script_that_switches_the_current_use_to_the_user_betty
