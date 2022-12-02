@@ -14,3 +14,5 @@
 "creates a directory"
 #!/bin/bash
 "Move the file"
+#!/bin/bash
+"Delete the file betty"
