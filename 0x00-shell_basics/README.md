@@ -16,3 +16,5 @@
 "Move the file"
 #!/bin/bash
 "Delete the file betty"
+#!/bin/bash
+"Delete the directory my first directory"
