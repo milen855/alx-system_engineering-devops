@@ -4,3 +4,5 @@
 "Display the contents list of your current directory"
 #!/bin/bash
 "changes the working directory to the user’s home directory"
+#!/bin/bash
+"current directory contents in a long format"
