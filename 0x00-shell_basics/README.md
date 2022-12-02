@@ -6,3 +6,5 @@
 "changes the working directory to the user’s home directory"
 #!/bin/bash
 "current directory contents in a long format"
+#!/bin/bash
+"Display current directory contents, including hidden files"
