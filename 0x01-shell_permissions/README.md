@@ -8,3 +8,5 @@
 "changes the owner of the file hello to the user betty"
 #!/bin/bash
 "creates an empty file called hello"
+#!/bin/bash
+ "adds execute permission to the owner of the file hello"
