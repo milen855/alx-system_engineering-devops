@@ -26,3 +26,5 @@
 "prints the type of the file named"
 #!/bin/bash
 Create a symbolic link to /bin/ls, named __ls__
+#!/bin/bash
+"copies all the HTML files from the current working directory to the parent of the working directory"
