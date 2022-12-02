@@ -12,3 +12,5 @@
 "Display current directory contents, Long format, with user and group IDs displayed numerically, And hidden files"
 #!/bin/bash
 "creates a directory"
+#!/bin/bash
+"Move the file"
