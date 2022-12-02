@@ -4,3 +4,5 @@
 "prints the effective username of the current user"
 #!/bin/bash
 "prints all the groups the current user is part of"
+#!/bin/bash
+"changes the owner of the file hello to the user betty"
