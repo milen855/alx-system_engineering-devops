@@ -16,3 +16,5 @@
 "adds execution permission to the owner, the group owner and the other users, to the file hello"
 #!/bin/bash
 "sets the permission to the file hello as follows"
+#!/bin/bash
+"sets the mode of the file hello to this"
