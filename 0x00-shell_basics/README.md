@@ -18,3 +18,5 @@
 "Delete the file betty"
 #!/bin/bash
 "Delete the directory my first directory"
+#!/bin/bash
+"changes the working directory to the previous one"
