@@ -24,3 +24,5 @@
 "adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed"
 #!/bin/bash
 "creates a directory called my_dir with permissions 751 in the working directory"
+#!/bin/bash
+"changes the group owner to school for the file hello"
