@@ -26,3 +26,5 @@
 "creates a directory called my_dir with permissions 751 in the working directory"
 #!/bin/bash
 "changes the group owner to school for the file hello"
+#!/bin/bash
+"changes the owner to vincent and the group owner to staff for all the files and directories in the working directory"
