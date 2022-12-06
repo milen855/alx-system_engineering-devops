@@ -26,3 +26,5 @@
 "script that prints all possible combinations of two letters, except oo"
 #!/bin/bash
 "script that prints a number with two decimal places, followed by a new line"
+#!/bin/bash
+"script that converts a number from base 10 to base 16"
