@@ -4,3 +4,5 @@
 "script that displays a confused smiley "(Ôo)'"
 #!/bin/bash
 "Display the content of the /etc/passwd file"
+#!/bin/bash
+"Display the content of /etc/passwd and /etc/hosts"
