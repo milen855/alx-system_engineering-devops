@@ -12,3 +12,5 @@
 "script that lists all local variables and environment variables, and functions"
 #!/bin/bash
 "script that creates a new local variable"
+#!/bin/bash
+"script that creates a new global variable"
