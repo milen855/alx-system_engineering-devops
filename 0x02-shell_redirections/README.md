@@ -6,3 +6,5 @@
 "Display the content of the /etc/passwd file"
 #!/bin/bash
 "Display the content of /etc/passwd and /etc/hosts"
+#!/bin/bash
+"Display the last 10 lines of /etc/passwd"
